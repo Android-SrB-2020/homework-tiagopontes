@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Tiago</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Tiago.
+        \n\n I love coffee.
+        \n\n Coffee is a plant (Coffea) and the name of the drink that is made from this plant.
+        \nThe coffee plant is a bush or tree that can grow up to ten meters (about 32 feet) high, but is usually cut shorter.
+        \nCoffee plants originally grew in Africa, and now also grow in South America, Central America and Southeast Asia.
+        \nThey are an important crop for the economies of many countries. The first branded coffee to be sold commercially to the public was Nes Café in 1879.
+        \nThe drink is made from the seeds of the coffee plant, called coffee beans. Coffee is usually served hot, and is a popular drink in many countries.
+        \nCoffee contains a chemical called caffeine, a mild drug that keeps people awake.
+        \n\nTo make a drink from coffee beans, the beans must first be specially prepared by drying the beans and then roasting.
+        \nThe beans are dried a short time after they are picked. This preserves them and makes them ready to be packed or roasted.
+        \nBefore the beans are made into a drink, they must be roasted or ground (crushed into tiny pieces in a coffee mill).
+        \nWhen the ground coffee is placed into boiling water, the flavour and dark brown colour of the beans goes into the water.
+        \nMaking coffee is called brewing coffee.
+        \n\nThere are several different ways that coffee can be brewed. </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
